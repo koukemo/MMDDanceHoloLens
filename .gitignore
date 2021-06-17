@@ -12,7 +12,9 @@
 
 # MMD Tool 
 /Assets/MMDResources/
+/Assets/MMDResources.meta
 /Assets/MMD4Mecanim/
+/Assets/MMD4Mecanim.meta
 
 # Build Folder for HoloLens
 /UWP/
