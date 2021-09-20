@@ -10,7 +10,7 @@ MixedRealityToolkit 2.6.1 <br>
 [MMD4Mecanim Beta 20200105](http://stereoarts.jp/) <br>
 
 ## 実行結果
-
+[![YuniDanceDemo](http://img.youtube.com/vi/LBBoCagYCPk/0.jpg)](https://youtu.be/LBBoCagYCPk)
 
 ## 手順
 1. [MMD4Mecanim Beta 20200105](http://stereoarts.jp/)をダウンロード
